@@ -1,5 +1,7 @@
 🎸 CifraPlayer
+
 Sistema simples de exibição de tablaturas com reprodução de áudio em Java.
+
 
 💻 Funcionalidades
 Mostra tablaturas de músicas.
