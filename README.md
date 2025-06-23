@@ -4,6 +4,7 @@ Sistema simples de exibição de tablaturas com reprodução de áudio em Java.
 
 
 💻 Funcionalidades
+
 Mostra tablaturas de músicas.
 
 Reproduz arquivos .wav da biblioteca local.
@@ -11,10 +12,13 @@ Reproduz arquivos .wav da biblioteca local.
 Interface de texto simples (console).
 
 🧩 Tecnologias
+
 Java
 Java Applet (para tocar arquivos .wav)
 
+
 🚀 Como executar
+
 Coloque os arquivos .wav na mesma pasta do projeto (/src/cifraplayer).
 
 Ex: NovaEra.wav, Tornado.wav
